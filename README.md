@@ -11,7 +11,9 @@ may install them into new your environment DjangoRestCors by something like
 
 ## Usage
 `conda activate DjangoRestCors`
+
 `django-admin startserver`
+
  localhost/apier should be available
  
 
