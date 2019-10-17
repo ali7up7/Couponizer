@@ -14,6 +14,6 @@ may install them into new your environment DjangoRestCors by something like
 
 `django-admin startserver`
 
- localhost/apier should be now available
+ `localhost/apier` should be now available via your favourite browser
  
 
